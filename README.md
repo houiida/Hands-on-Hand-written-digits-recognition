@@ -1,2 +1,2 @@
-# Hands-on-Hand-written-digits-recognition
+# Hands-on-Handwritten-digit-recognition
 first Project DL
